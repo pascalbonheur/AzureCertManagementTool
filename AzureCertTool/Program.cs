@@ -10,7 +10,7 @@ namespace AzureCertTool
     {
         static void Main(string[] args)
         {
-            string quickChange = "1";
+            string quickChange = "2";
         }
     }
 }
